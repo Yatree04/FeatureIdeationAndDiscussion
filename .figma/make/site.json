@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to ideate, query, and interact with dynamic widgets for streamlined project brainstorming and feature exploration in one platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
